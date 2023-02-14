@@ -1,2 +1,2 @@
 # Challanges
-This repository is intended to submit solutions for coding challenges.
+This repository is intended for the submission of solutions to coding challenges.
